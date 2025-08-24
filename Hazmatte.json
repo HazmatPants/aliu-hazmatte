@@ -2,7 +2,9 @@
     "manifest": {
         "author": "HazmatPants",
         "name": "Hazmatte",
-        "version": "1.0.0"
+        "version": "1.0.3",
+        "updater": "https:\/\/raw.githubusercontent.com\/HazmatPants\/aliu-hazmatte\/refs\/heads\/main\/Hazmatte.json",
+        "license": "MIT License"
     },
     "background": {},
     "fonts": {
@@ -20,9 +22,10 @@
     "colors": {
         "link": -1125886,
         "uikit_btn_bg_color_selector_green": -1125886,
-        "uikit_btn_bg_color_selector_red": -1523670,
+        "uikit_btn_bg_color_selector_red": -1562038,
         "primary_700": -13884928,
-        "white_500": -2632505
+        "white_500": -2632505,
+        "uikit_btn_bg_color_selector_brand": -2725874
     },
     "drawable_tints": {
         "ic_status_online_16dp": -16711850,
