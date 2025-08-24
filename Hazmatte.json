@@ -1,0 +1,35 @@
+{
+    "manifest": {
+        "author": "HazmatPants",
+        "name": "Hazmatte",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1189945354280505474\/1408988917444776006\/JetBrainsMonoNL-Medium.ttf?ex=68abbeaf&is=68aa6d2f&hm=629f637778b48ca7cb9b97c93b39b55f3532849465f4c65ef5c2db1ca542b3ad&"
+    },
+    "simple_colors": {
+        "background": -15265023,
+        "background_secondary": -15791102,
+        "accent": -1125886,
+        "active_channel": -1880837120,
+        "mention_highlight": 837734914,
+        "statusbar": -11451633,
+        "input_background": -15593984
+    },
+    "colors": {
+        "link": -1125886,
+        "uikit_btn_bg_color_selector_green": -1125886,
+        "uikit_btn_bg_color_selector_red": -1523670,
+        "primary_700": -13884928,
+        "white_500": -2632505
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -16711850,
+        "ic_status_dnd_16dp": -2490290,
+        "ic_status_invisible_16dp": -593392896,
+        "ic_status_streaming_16dp": -4849409,
+        "ic_status_idle_16dp": -1788928
+    },
+    "raws": {}
+}
